@@ -1,1 +1,7 @@
-{"m":"Une nouvelle version de l'application est disponible. Téléchargez-là et installez-là.","u":"https://github.com/bakget/bulletins-annonces","v":3000009,"t":1795753163452,"s":"ac684186c05e139ec46240f09c80c1ea6a56052094f06d9b8937056f1a0c8b3f"}
+{
+ "v": "V2.0.2",
+ "msg": "Une nouvelle version de l'application est disponible. Téléchargez-là et installez-là.",
+ "apk": "https://github.com/bakget/bulletins-annonces",
+ "zip": "https://github.com/bakget/bulletins-annonces",
+ "date": "2026-11-27"
+}
